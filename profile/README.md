@@ -1,3 +1,3 @@
 # Fernops Open Source Projects
 
-Contribuions though issues and PR are welcome.
+Contribuions are welcome though issues and PR.
